@@ -22,3 +22,6 @@ This GitHub repository documents my progress and shares insights from the "BCG D
 - Produced a deliverable in the form of a professional email outlining the approach to the hypothesis testing.
 
 ## Task 2: Exploratory Data Analysis
+
+
+### Task 3: Feauture Engineering and Modelling
